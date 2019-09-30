@@ -1,0 +1,25 @@
+{
+  "name": "ireporter",
+  "version": "1.0.0",
+  "description": "iReporter enables any/every citizen to bring any form of corruption to the notice of appropriate authorities and the general public",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggytwes/_IREPORTER.git"
+  },
+  "author": "Aggy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aggytwes/_IREPORTER/issues"
+  },
+  "homepage": "https://github.com/aggytwes/_IREPORTER#readme"
+}
